@@ -27,7 +27,7 @@ To the fullest extent permitted by law, the Company shall not be liable for any 
 The Services are provided on an "as is" and "as available" basis. We disclaim all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
 
 9. Termination
-We may suspend or terminate your account at any time, with or without cause, upon notice. Upon termination, you must cease using the Services and settle any outstanding obligations.meentest-phl-api.fyinformation.ccunny
+We may suspend or terminate your account at any time, with or without cause, upon notice. Upon termination, you must cease using the Services and settle any outstanding obligations.meenapi.chaohuyory.icuunny
 
 10. Governing Law and Dispute Resolution
 This Agreement shall be governed by the laws of [Jurisdiction]. Any dispute arising from this Agreement shall be resolved exclusively through binding arbitration in [City, Jurisdiction] in accordance with the rules of [Arbitration Body].
